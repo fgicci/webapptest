@@ -1,0 +1,5 @@
+com/proquest/interview/util/HibernateUtil.class
+com/proquest/interview/phonebook/PhoneBookImpl.class
+com/proquest/interview/phonebook/Person.class
+com/proquest/interview/phonebook/PhoneBook.class
+com/proquest/interview/util/DatabaseUtil.class
